@@ -1,0 +1,13 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "silly attempts at dsa problems",
+  "main": "index.js",
+  "repository": "git@github.com:juliannevela/dsa-practice.git",
+  "author": "Julianne Vela <hello@juliannevela.dev>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
