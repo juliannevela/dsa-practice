@@ -7,6 +7,9 @@
   "author": "Julianne Vela <hello@juliannevela.dev>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest --verbose --runInBand --testLocationInResults"
+  },
   "dependencies": {
     "jest": "^27.4.5"
   }
